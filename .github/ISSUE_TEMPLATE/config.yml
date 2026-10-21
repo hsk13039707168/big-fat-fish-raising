@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 玩法与素材替换说明
+    url: https://github.com/hsk13039707168/big-fat-fish-raising/blob/main/docs/%E8%BF%90%E8%A1%8C%E4%B8%8E%E6%9B%BF%E6%8D%A2%E7%B4%A0%E6%9D%90%E8%AF%B4%E6%98%8E.md
+    about: 配置、素材尺寸、进化阶段与常见问题都在这里
+  - name: 💬 讨论与闲聊
+    url: https://github.com/hsk13039707168/big-fat-fish-raising/discussions
+    about: 玩法讨论、点子征集、二创素材分享
+  - name: 🔒 报告安全问题
+    url: https://github.com/hsk13039707168/big-fat-fish-raising/security/advisories/new
+    about: 请勿在公开 Issue 中披露安全漏洞

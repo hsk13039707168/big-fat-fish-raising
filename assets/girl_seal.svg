@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cdeeff"/><stop offset="1" stop-color="#8fd3ff"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9d8f5"/><stop offset="1" stop-color="#5b9fd8"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#bg)"/>
+  <ellipse cx="150" cy="380" rx="120" ry="16" fill="#000" opacity=".15"/>
+  <ellipse cx="150" cy="270" rx="118" ry="98" fill="url(#body)"/>
+  <ellipse cx="150" cy="300" rx="80" ry="60" fill="#e8f6ff" opacity=".55"/>
+  <path d="M56 258c-26-16-30-44-16-56 12-10 30 0 40 22z" fill="#7cbde8"/>
+  <path d="M244 258c26-16 30-44 16-56-12-10-30 0-40 22z" fill="#7cbde8"/>
+  <path d="M96 362c-18 14-34 12-40-2 14-10 30-8 40 2z" fill="#7cbde8"/>
+  <path d="M204 362c18 14 34 12 40-2-14-10-30-8-40 2z" fill="#7cbde8"/>
+  <circle cx="110" cy="150" r="12" fill="#2b3a4a"/>
+  <circle cx="190" cy="150" r="12" fill="#2b3a4a"/>
+  <circle cx="113" cy="146" r="4" fill="#fff"/>
+  <circle cx="193" cy="146" r="4" fill="#fff"/>
+  <ellipse cx="96" cy="176" rx="14" ry="9" fill="#ff9db5" opacity=".7"/>
+  <ellipse cx="204" cy="176" rx="14" ry="9" fill="#ff9db5" opacity=".7"/>
+  <path d="M138 178q12 12 24 0" stroke="#2b3a4a" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="150" y="60" font-size="30" font-family="sans-serif" font-weight="bold" fill="#ff3d71" text-anchor="middle">SEALED</text>
+  <text x="150" y="88" font-size="18" font-family="sans-serif" fill="#2b3a4a" text-anchor="middle">胖海豹形态</text>
+</svg>

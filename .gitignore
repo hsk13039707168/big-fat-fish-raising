@@ -1,0 +1,34 @@
+# ============================================================================
+# 《大肥鱼养成计划》.gitignore
+# ============================================================================
+
+# ---- 构建产物（单文件版由 tools/bundle.py 生成，发布到 GitHub Releases）----
+dist/
+tools/.bundle_check.js
+
+# ---- 本地调试脚本（下划线开头的一次性脚本，不入库）----
+_*.py
+_*.js
+_*.json
+_*.html
+tools/_*
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Office 临时文件 ----
+~$*.docx
+*.docx.bak
+
+# ---- 根目录残留的 docx（正式副本在 docs/prompts/）----
+/*.docx
+
+# ---- 日志 / 缓存 ----
+*.log
+npm-debug.log*
+__pycache__/
+*.py[cod]
