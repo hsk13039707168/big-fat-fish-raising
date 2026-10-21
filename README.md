@@ -7,8 +7,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](./CHANGELOG.md)
 [![Zero Dependency](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#技术栈)
+[![Play Online](https://img.shields.io/badge/Play%20Online-GitHub%20Pages-blueviolet)](https://hsk13039707168.github.io/big-fat-fish-raising/)
 
-[下载单文件版](#快速开始) · [功能特性](#功能特性) · [配置说明](#配置说明) · [常见问题](#常见问题) · [参与贡献](#参与贡献)
+**[🌐 在线试玩](https://hsk13039707168.github.io/big-fat-fish-raising/)** · [下载单文件版](#快速开始) · [功能特性](#功能特性) · [配置说明](#配置说明) · [常见问题](#常见问题) · [参与贡献](#参与贡献)
 
 </div>
 
@@ -89,6 +90,10 @@
 ---
 
 ## 快速开始
+
+### 方式零：在线试玩（最快）
+
+打开 **<https://hsk13039707168.github.io/big-fat-fish-raising/>** —— 无需下载，手机也能直接玩。
 
 ### 方式一：直接玩（推荐，零门槛）
 
