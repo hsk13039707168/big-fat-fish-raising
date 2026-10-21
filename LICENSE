@@ -19,16 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-素材声明 / Assets Notice
-
-assets/ 与 素材包/ 目录中的图片可能包含第三方商标、品牌形象或真人肖像，
-不属于上述 MIT 授权范围，仅限于个人学习与非商业演示用途。
-如需公开展示或商业使用，请自行替换为拥有合法授权的素材。
-
-Images under assets/ and 素材包/ may contain third-party trademarks, brand
-likenesses or portraits of real persons. They are NOT covered by the MIT
-license above and are provided for personal, non-commercial demonstration only.
-Replace them with properly licensed assets before any public or commercial use.
